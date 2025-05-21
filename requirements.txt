@@ -1,0 +1,21 @@
+# Core ML & Numeric
+numpy
+scikit-learn
+scipy
+
+# Visualization (optional but useful)
+matplotlib
+seaborn
+
+# Testing
+pytest
+pytest-cov
+
+# Formatting & Linting
+black
+flake8
+isort
+
+# Documentation
+sphinx
+sphinx-rtd-theme
