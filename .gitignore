@@ -12,5 +12,8 @@ venv/
 # VS Code settings (optional)
 .vscode/
 
+# Sphinx build output
+docs/build/
+
 # OS files
 .DS_Store
