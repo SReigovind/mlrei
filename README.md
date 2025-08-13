@@ -4,7 +4,7 @@
 
 ## 👤 About
 
-I'm an MSc Artificial Intelligence student with some basic experience in Python, machine learning, and web development. This project is my way of upskilling by going beyond just using libraries — I want to understand and build them myself, ehee.
+I'm an MSc Artificial Intelligence student with some basic experience in Python, machine learning, and web development. This project is my way of upskilling by going beyond just using libraries — I want to understand and build them myself.
 
 ## 🎯 Project Goals
 
